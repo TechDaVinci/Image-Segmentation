@@ -2,7 +2,7 @@
 
 **Enhanced Convolutional Methods for Image Segmentation Study**
 
-This repository contains code and resources for studying enhanced convolutional methods in image segmentation architectures.
+This repository contains code and resources for studying enhanced convolutional methods in image segmentation architectures using PyTorch.
 
 ## Objective
 
