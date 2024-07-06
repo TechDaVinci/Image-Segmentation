@@ -32,20 +32,12 @@ Explore image semantic segmentation architectures (Unet, AttenUnet, Unet++, Caps
    ```
    cd Image-Segmentation
    ```
-3. **Install Git LFS:**
-   ```
-   git lfs install
-   ```
-4. **Fetch LFS Objects:**
-   ```
-   git lfs pull
-   ```
-6. **Run the Code:**
+4. **Run the Code:**
    - Open `main.ipynb` in a Jupyter environment.
    - Run all cells.
    - Choose architecture and dataset.
 
-7. **Review Output:**
+5. **Review Output:**
    - Check `output` folder for results.
    - Explore segmentation outcomes.
 
